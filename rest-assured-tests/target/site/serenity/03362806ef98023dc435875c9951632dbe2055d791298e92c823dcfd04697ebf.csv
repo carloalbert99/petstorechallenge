@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"PetStoreUserTests","Test login user invalid credentials","FAILURE","2024-10-09T23:52:44.623139-05:00[America/Bogota]","0.0","0.0"
+"PetStoreUserTests","Test get user invalid username","FAILURE","2024-10-09T23:52:44.629154-05:00[America/Bogota]","0.0","0.01"
