@@ -85,10 +85,6 @@ The test cases for Petstore operations are defined as follows:
 
 ### Test Coverage and Results
 
-### Serenity Report
-
-The detailed Serenity test report can be accessed [here](https://<tu_usuario>.github.io/<tu_repositorio>/target/site/serenity/index.html).
-
 #### Test Results: All Tests
 
 ![Test Results: All Tests](img/TestResults_AllTests.png)
